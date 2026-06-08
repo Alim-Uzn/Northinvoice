@@ -96,6 +96,6 @@ Erstellung einer Korrekturrechnung auf Basis einer bestehenden Rechnung mit auto
 
 # Status
 
-Die Anwendung befindet sich aktuell produktiv im Einsatz bei einem Handwerksbetrieb und wird kontinuierlich weiterentwickelt.
+Die Anwendung befindet sich aktuell produktiv im Einsatz bei ein paar Handwerksbetriebe und wird kontinuierlich weiterentwickelt.
 
 Langfristiges Ziel ist der Ausbau zu einer skalierbaren Lösung für mehrere Betriebe mit erweitertem Verwaltungs- und Automatisierungsumfang.
